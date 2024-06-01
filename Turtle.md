@@ -177,7 +177,7 @@ screen.bgcolor("#ffc0cb") # Change the background colour to the colour with HEX 
 screen.bgcolor(255, 192, 203) # Change the background colour to the colour with RGB values 255, 192 and 203
 ```
 
-> Excerise: Try setting the background colour to green
+> 💡 Exercise: Try setting the background colour to green
 
 There are many other functions you can call on the screen which you can read about [here](https://docs.python.org/3/library/turtle.html#methods-of-turtlescreen-screen-and-corresponding-functions).
 

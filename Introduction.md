@@ -176,7 +176,7 @@ def my_function_name(name):
 ```
 This function will, when called, print `Hello` and then the name given to the function. For example `my_function_name("Rosie")` will print `Hello Rosie` to the terminal and `my_function_name("James")` will print `Hello James`. We call the information we give to the function arguments.
 
->Try creating a function that takes one number argument and prints out if it is bigger, smaller or the same as the number 10 (look at the section on if statements if you need help with this)
+> 💡 Exercise: Try creating a function that takes one number argument and prints out if it is bigger, smaller or the same as the number 10 (look at the section on if statements if you need help with this)
 
 
 ## User input
@@ -204,7 +204,7 @@ my_function_name(input_name)
 ```
 will output `Hello` and the users name.
 
->Try adding an input to your script that asks for a number and uses your function from the functions section to decide if it is bigger, smaller or the same as the number 10.
+> 💡 Exercise: Try adding an input to your script that asks for a number and uses your function from the functions section to decide if it is bigger, smaller or the same as the number 10.
 
 ## Random
 

@@ -33,7 +33,7 @@ This functions will not move the turtle anywhere, just turn it on the spot.
 
 >Exercise: Try using the `forward`, `backward`, `left` and `right` functions to draw a square.
 
-You might notice that the Turtle window closes when the script has finished running. This doesn't give you time to admire your art work! If you would like to stop this you can add the line `t.exitonclick()`. This will tell the script to close the Turtle window only once it has been clicked on.
+You might notice that the Turtle window closes when the script has finished running. This doesn't give you time to admire your art work! If you would like to stop this you can add the line `t.done()`at the end of your script. This will tell the script that you have finished with Turtle but not close the window automatically.
 
 <details> <summary>Additional movement functions </summary>
 

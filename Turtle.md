@@ -31,7 +31,7 @@ t.right(30) # Turn the turtle 30 degrees to the right
 ```
 This functions will not move the turtle anywhere, just turn it on the spot.
 
->Exercise: Try using the `forward`, `backward`, `left` and `right` functions to draw a square.
+> 💡 Exercise: Try using the `forward`, `backward`, `left` and `right` functions to draw a square.
 
 You might notice that the Turtle window closes when the script has finished running. This doesn't give you time to admire your art work! If you would like to stop this you can add the line `t.done()`at the end of your script. This will tell the script that you have finished with Turtle but not close the window automatically.
 
@@ -66,7 +66,7 @@ t.home() # Move turtle from where it is to (0, 0) in a straight line
 
 In the introduction to Turtle, we mentioned that our robot turtle was holding a little pen. We can control when that pen will draw a line when the turtle moves with the following functions.
 
->Exercise: Try using these functions to create a dashed line
+> 💡 Exercise: Try using these functions to create a dashed line
 
 ### Pen down
 
@@ -93,7 +93,7 @@ t.clear() # Remove all drawings
 
 You will have noticed that so far, our turtle has only been using a small black pen. Turtle has functions that allow us to control what kind of line the turtle draws with its pen. We are able to control the size, colour, speed and fill.
 
->Exercise: Try drawing a square where each side changes pen size, pen colour, fill colour and speed using these functions.
+> 💡 Exercise: Try drawing a square where each side changes pen size, pen colour, fill colour and speed using these functions.
 
 ### Pen size
 
@@ -185,7 +185,7 @@ There are many other functions you can call on the screen which you can read abo
 
 Turtle is able to take some inputs from the user which you can then use in your script.
 
-> Exercise: Try drawing a squares whos sides have the length the user gives
+> 💡 Exercise: Try drawing a squares whos sides have the length the user gives
 
 ### Number input
 

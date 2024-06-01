@@ -14,7 +14,7 @@ Anything inside the brackets of a `print` statement will get outputted to the te
 
 To run the script type `python Script.py` in the terminal. You should see `Hello world!`.
 
->Exercise: Try adding a new print statement that will display your name in the terminal.
+> 💡 Exercise: Try adding a new print statement that will display your name in the terminal.
 
 ## Variables
 
@@ -25,7 +25,7 @@ print(message)
 ```
 When you run the script, this should output `Hello world!` as before. This is because you have created a variable called `message` and now whenever the code sees that variable it knows you mean `"Hello world!"`.
 
->Exercise: Try changing the text of the message variable and see how that changes what is output to the terminal when you run the script.
+> 💡 Exercise: Try changing the text of the message variable and see how that changes what is output to the terminal when you run the script.
 
 ### Types
 
@@ -155,7 +155,7 @@ else:
 ```
 In this case, `a is smaller than b` would be printed to the terminal as none of the conditions were true.
 
->Exercise: Try writing some code that will output if a variable is bigger, smaller or equal to the number 10.
+> 💡 Exercise: Try writing some code that will output if a variable is bigger, smaller or equal to the number 10.
 
 ## Functions
 
@@ -221,7 +221,7 @@ We can produce a random number with a range by using `randrange`.
 x = random.randrange(1, 10) # Produces a random number between 1 and 10
 ```
 
-> Exercise: Try creating a random number between 0 and 100 and print it to the terminal. Notice each time you run the script it produces a different number.
+> 💡 Exercise: Try creating a random number between 0 and 100 and print it to the terminal. Notice each time you run the script it produces a different number.
 
 ### Seed
 
@@ -231,4 +231,4 @@ A computer can't produce truely random numbers and uses an algorithm to generate
 random.seed(2) # Initialize the random number generator with 2
 ```
 
->Exercise: Now try running your script lots of times and see how that changes what numbers it produces
+> 💡 Exercise: Now try running your script lots of times and see how that changes what numbers it produces

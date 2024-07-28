@@ -198,3 +198,7 @@ num = screen.numinput("Favourite number", "Please enter your favourite number") 
 ```
 name = screen.textinput("Name", "Please enter your name") # Ask the user to enter their name
 ```
+
+## Next
+
+Next up: [Challenge](03-challenge.md)

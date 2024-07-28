@@ -232,3 +232,7 @@ random.seed(2) # Initialize the random number generator with 2
 ```
 
 > 💡 Exercise: Now try running your script lots of times and see how that changes what numbers it produces
+
+## Next
+
+[Turtle](02-turtle.md)

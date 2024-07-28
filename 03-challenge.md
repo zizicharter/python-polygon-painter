@@ -14,4 +14,4 @@ Create a new script that uses Turtle to draw polygons.
 
 
 For example:
-![image](./example5.PNG)
+![image](./example.PNG)

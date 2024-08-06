@@ -63,3 +63,7 @@ An exterior angle of a polygon is the angle made between one side of a polygon a
 For example:
 
 ![image](./example.PNG)
+
+## Next
+
+Fancy another? [Challenge 2](04-challenge2.md)

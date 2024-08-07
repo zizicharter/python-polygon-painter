@@ -217,7 +217,7 @@ my_function_name(input_name)
 
 ## Random
 
-Python has a feature that allows us to generate (pseudo-)random numbers. In order to do this we need to tell it we want to use the set of functions that create these numbers.
+Python has a feature that allows us to generate (pseudo-)random numbers. In order to do this we need to tell it we want to use the set of functions that create these numbers. To do this add this line to the top of your script:
 ```
 import random
 ```

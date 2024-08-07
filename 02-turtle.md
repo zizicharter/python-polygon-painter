@@ -8,6 +8,8 @@ Lets start by creating a new script called `Turtle.py`. In order to use Turtle w
 ```
 import turtle as t
 ```
+This means we don't have to type `Turtle` every time we want to use its function - we can just use `t` instead.
+
 Now we can start using Turtle!
 
 ## Moving the turtle

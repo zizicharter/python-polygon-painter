@@ -2,6 +2,8 @@
 
 This is a course that teaches some Python and the Turtle library with the aim to create beautiful polygon pictures using programming!
 
+Already done some programming before? If you like, you can skip this page and move on to [a quick reminder about Python](01a-python-refresher.md). 
+
 ## Getting started
 
 A popular way to start coding is to write a 'Hello World' script so that is where we will start!

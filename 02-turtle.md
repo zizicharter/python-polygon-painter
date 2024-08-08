@@ -189,6 +189,35 @@ screen.bgcolor(255, 192, 203) # Change the background colour to the colour with 
 
 > 💡 Exercise: Try setting the background colour to green.
 
+### Screen size
+
+You can find out what the screen size of the Turtle window is with the `screensize` function.
+
+```
+size = t.screensize()
+```
+
+This will return a tuple (a way of storing multiple items in a single variable). The first item in the tuple is the screen width and you can access it with:
+
+```
+width = size[0]
+```
+The second item is the height:
+
+```
+height = size[1]
+```
+
+You can also use the same function to set the screen size to what ever you would like.
+
+```
+t.screensize(100, 200)
+```
+
+This will make the screen a rectangle 100 wide by 200 tall.
+
+### Other screen functions
+
 There are many other functions you can call on the screen which you can read about in the [Python Turtle library documentation](https://docs.python.org/3/library/turtle.html#methods-of-turtlescreen-screen-and-corresponding-functions).
 
 ## Inputs

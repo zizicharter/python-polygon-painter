@@ -10,13 +10,13 @@ Create a new script called `Challenge.py` that uses Turtle to draw regular polyg
 
 ### Polygon
 
-A polygon is a closed 2D shape whose sides are all straight. For example, a right angled triangle or regtangle but not a semi-circle.
+A polygon is a closed 2D shape whose sides are all straight. For example, a right angled triangle or a rectangle but not a semi-circle.
 
 ![image](./polygons.PNG)
 
 ### Regular polygon
 
-A regular polygon is a polygon whose sides are all the same length and angles are all the same size. For example, a square or an equailateral triangle.
+A regular polygon is a polygon whose sides are all the same length and angles are all the same size. For example, a square or an equilateral triangle.
 
 ![image](./regular_polygons.PNG)
 
@@ -25,7 +25,7 @@ A regular polygon is a polygon whose sides are all the same length and angles ar
 
 #### Interior angles
 
-An interior angle of a polygon is the angle between two sides in one corner (or vertex) in the **inside** of the polygon.
+An interior angle of a polygon is the angle between two sides in one corner (or vertex) on the **inside** of the polygon.
 
 
 ![image](./interior_angle.PNG)

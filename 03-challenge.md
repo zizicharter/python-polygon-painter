@@ -64,6 +64,18 @@ For example:
 
 ![image](./example.PNG)
 
+## Extension
+
+Turtle has a function for drawing a circle (read more in the [Python Turtle library documentation](https://docs.python.org/3/library/turtle.html#turtle.circle) if you are interested). You give the function a radius and it will draw a circle of the given radius centred radius units to the left of the Turtles current position.
+
+```
+t.circle(50) # Draw a circle of size 50
+```
+You can then use the same customising functions as before to make it different colours, speed etc.
+
+With this new information, can you extend your script to draw some circles as well as polygons?
+
+
 ## Next
 
 Fancy another? [Challenge 2](04-challenge2.md)

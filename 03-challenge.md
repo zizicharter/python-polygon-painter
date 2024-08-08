@@ -4,6 +4,8 @@ The time has come to put your learning into action!
 
 Create a new script called `Challenge.py` that uses Turtle to draw regular polygons.
 
+<details> <summary> <b> What is a polygon? </b> </summary>
+
 ## What is a polygon?
 
 ### Polygon
@@ -41,6 +43,7 @@ An exterior angle of a polygon is the angle made between one side of a polygon a
 - The total of all the exterior angles in a polygon equals 360.
 - One exterior angle of a regular $n$ sided polygon equals $360 ÷ n$.
 
+</details>
 
 ## The challenge
 

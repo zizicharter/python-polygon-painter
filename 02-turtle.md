@@ -55,6 +55,7 @@ You can also move the turtle to any position without drawing anything.
 ```
 t.teleport(35, 75) # Move turtle from where it is to the coordinate (35, 75) without drawing anything
 ```
+If you can't get this to work you can achieve the same thing by using the `penup` and `pendown` function explained below.
 
 #### Home
 

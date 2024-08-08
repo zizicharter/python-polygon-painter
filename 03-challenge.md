@@ -38,10 +38,10 @@ An exterior angle of a polygon is the angle made between one side of a polygon a
 
 #### Facts about interior and exterior angles
 
-- The total of all the interior angles in an n sided polygon equals (n - 2) x 180.
+- The total of all the interior angles in an $n$ sided polygon equals $(n - 2) * 180$.
 - The sum of an interior and an exterior angle of a polygon equals 180.
-- The total of all the exterior angles in an n sided polygon equals 360.
-- One exterior angle of a regular n sided polygon equals 360 ÷ n.
+- The total of all the exterior angles in a polygon equals 360.
+- One exterior angle of a regular $n$ sided polygon equals $360 ÷ n$.
 
 </details>
 
